@@ -1,4 +1,4 @@
-## OpenWrt Firmwares for NanoPi-R2S
+## OpenWrt Firmwares for NanoPi-R2S..
 ### ⚠ WARNING: USE IT UNDER YOUR OWN RISK.
 ### ⛔️ WARNING: THIS IS DEPRECATED.
 - - -
